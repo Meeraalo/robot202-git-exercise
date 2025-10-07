@@ -8,7 +8,7 @@ def do(a,b,o):
     if o=="/":
         if b==0:
             print("Zero division")
-            return 0
+            return 
         return a/b
     if o=="+":
  	    return a+b
